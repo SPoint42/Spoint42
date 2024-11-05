@@ -1,6 +1,5 @@
 ## Hi there, I'm Sébastien Gioria
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Spoint42)](https://git.io/streak-stats)
 
 
 You can reach me at : 
