@@ -3,7 +3,11 @@
 
 
 You can reach me at : 
-  📨 github@gioria.org 
+  * 📨 github@gioria.org 
+  * [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/SPoint.svg?style=social&label=Follow%20%40SPoint)](https://twitter.com/SPoint)
+  *  [![Linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://linkedin.com/in/gioria)
+
+
   
 
 <!--
